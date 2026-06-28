@@ -1,1 +1,2 @@
 remote 추가하고 로컬에서 push
+2th push
